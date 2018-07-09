@@ -1,13 +1,4 @@
 # steemR
 
-R package to retrieve and clean data from the Steem blockchain. 
+Due to a naming conflict this repository is depreciated from 9/7/2018 and the project has moved over to https://github.com/kharoof/steemRdata
 
-License: GPL-3
-
-## Installation Via Devtools
-Development versions of steemR may be installed via devtools
-``` 
-install.packages("devtools")
-library(devtools)
-install_github("kharoof/steemR")
-```
